@@ -1,5 +1,5 @@
 <x-layouts.app title="Tambah Poli">
-
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     {{-- Header --}}
     <div class="flex items-center gap-3 mb-6">
         <a href="{{ route('polis.index') }}"

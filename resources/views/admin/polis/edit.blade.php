@@ -1,5 +1,5 @@
 <x-layouts.app title="Edit Poli">
-
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     {{-- Header --}}
     <div class="flex items-center gap-3 mb-6">
         <a href="{{ route('polis.index') }}" class="inline-flex items-center justify-center w-9 h-9 
